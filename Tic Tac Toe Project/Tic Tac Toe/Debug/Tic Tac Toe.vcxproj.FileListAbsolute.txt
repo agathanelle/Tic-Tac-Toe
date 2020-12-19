@@ -1,0 +1,2 @@
+C:\Users\Agata\Documents\Projects\Project\Tic Tac Toe\Debug\Tic Tac Toe.exe
+C:\Users\Agata\Documents\Projects\Project\Tic Tac Toe\Debug\Tic Tac Toe.pdb

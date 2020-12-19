@@ -1,0 +1,2 @@
+C:\Users\Agata\Documents\University\4 semestr\Kompiuteriu tinklai\ServerClientApp\Debug\ServerClientApp.exe
+C:\Users\Agata\Documents\University\4 semestr\Kompiuteriu tinklai\ServerClientApp\Debug\ServerClientApp.pdb
